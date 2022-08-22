@@ -30,30 +30,30 @@ public class Main {
             System.out.println("числа нету");
         }
 
-//        switch (number){
-//            case 10:
-//                System.out.println("десять");
-//                break;
-//
-//            case 9:
-//                System.out.println("девять");
-//                break;
-//            case 8:
-//                System.out.println("восемь");
-//                break;
-//            case 7:
-//                System.out.println("семь");
-//                break;
-//            case 6:
-//                System.out.println("шесть");
-//                break;
-//            case 5:
-//                System.out.println("пять");
-//                break;
-//            case 4:
-//                System.out.println("черыре");
-//                break;
-//            default:System.out.println("числа нету");
+        switch (number){
+            case 10:
+                System.out.println("десять 1000");
+                break;
+
+            case 9:
+                System.out.println("девять 9999");
+                break;
+            case 8:
+                System.out.println("восемь");
+                break;
+            case 7:
+                System.out.println("семь");
+                break;
+            case 6:
+                System.out.println("шесть");
+                break;
+            case 5:
+                System.out.println("пять");
+                break;
+            case 4:
+                System.out.println("черыре");
+                break;
+            default:System.out.println("числа нету");
 
                boolean mama = false;
                boolean papa = false;
